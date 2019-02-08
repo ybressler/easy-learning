@@ -4,11 +4,11 @@ Some code samples to help easy learning with Python.
 Topics inlcuded:
 
 * String manipulaton
- * Slicing
- * Manipulation
+  * Slicing
+  * Manipulation
  
 * Basic Math
- * Addition!
+  * Addition!
 
 ----
 
